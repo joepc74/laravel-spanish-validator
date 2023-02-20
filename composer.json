@@ -1,5 +1,5 @@
 {
-    "name": "orumad/laravel-spanish-validator",
+    "name": "joepc74/laravel-spanish-validator",
     "description": "Laravel validator for spanish stuff: NIF, NIE, CIF, NSS, IBAN, Postal Code, Phone numbers",
     "keywords": [
         "orumad",
@@ -8,16 +8,8 @@
         "laravel package",
         "laravel validator"
     ],
-    "homepage": "https://github.com/orumad/laravel-spanish-validator",
+    "homepage": "https://github.com/joepc74/laravel-spanish-validator",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Daniel Muñoz",
-            "email": "dev@danielmunoz.io",
-            "homepage": "https://danielmunoz.io",
-            "role": "Developer"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {
         "php": "^8.1.0",
