@@ -2,6 +2,8 @@
 
 namespace Orumad\SpanishValidator;
 
+use PHP_IBAN\IBAN;
+
 class Validator
 {
     public function isValidTaxNumber($value)
@@ -123,7 +125,7 @@ class Validator
 
     public function isValidIban($value)
     {
-        $iban = new \IBAN();
+        $iban = new IBAN();
 
         return $iban->Verify($value);
     }

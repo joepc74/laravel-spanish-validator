@@ -2,6 +2,7 @@
 
 namespace Orumad\SpanishValidator\Tests;
 
+use Illuminate\Foundation\Testing\TestCase;
 use Orumad\SpanishValidator\Validator;
 
 class SpanishValidatorTest extends \PHPUnit\Framework\TestCase
