@@ -11,7 +11,20 @@
     "homepage": "https://github.com/joepc74/laravel-spanish-validator",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {
+    "authors": [
+        {
+            "name": "Daniel Muñoz",
+            "email": "dev@danielmunoz.io",
+            "homepage": "https://danielmunoz.io",
+            "role": "Developer"
+        },
+        {
+            "name": "Jose Luis Perandones",
+            "email": "joepc74@gmail.com",
+            "homepage": "https://github.com/joepc74",
+            "role": "Developer"
+        }
+    ],    "require": {
         "php": "^8.1.0",
         "globalcitizen/php-iban": "^4.1",
         "illuminate/support": "^8.0|^9.0|^10.0"
